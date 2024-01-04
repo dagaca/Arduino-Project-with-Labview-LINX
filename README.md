@@ -56,7 +56,7 @@ Bu repo, çeşitli bileşenleri kullanarak kapsamlı bir sistem oluşturmak amac
 ## Nasıl Başlamalı?​
 1. Bu repo'yu bilgisayarınıza klonlayın.
    ```bash
-   git clone https://github.com/dagaca/Python-Programming.git
+   git clone https://github.com/dagaca/Arduino-Project-with-Labview-LINX.git
    
 2. LabVIEW'de Arduino_Project_with_Labview_LINX.lvproj dosyasını açın.
 
