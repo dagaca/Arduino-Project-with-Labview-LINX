@@ -2,9 +2,7 @@
 
 ## Arduino Devre Malzemeleri
 
-- 1 adet Arduino UNO​
-
-- 2 adet Breadboard​
+- 1 adet Arduino UNO​, - 2 adet Breadboard​
 
 - 1 adet HC-SR04 Mesafe Sensörü​
 
